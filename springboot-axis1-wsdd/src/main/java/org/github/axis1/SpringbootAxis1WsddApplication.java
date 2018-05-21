@@ -7,6 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootAxis1WsddApplication {
 
 	public static void main(String[] args) {
+		
+		
+		
+		
 		SpringApplication.run(SpringbootAxis1WsddApplication.class, args);
 	}
 }
